@@ -1,4 +1,4 @@
-package services;
+package com.example.Hackerrank.services;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
